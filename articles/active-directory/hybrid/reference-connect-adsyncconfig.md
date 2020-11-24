@@ -137,13 +137,13 @@ Read Property access on all attributes for all descendant computer objects
 Read Property access on all attributes for all descendant device objects
 3.
 Read Property access on all attributes for all descendant foreignsecurityprincipal objects
-5.
+4.
 Read Property access on all attributes for all descendant user objects
-6.
+5.
 Read Property access on all attributes for all descendant inetorgperson objects
-7.
+6.
 Read Property access on all attributes for all descendant group objects
-8.
+7.
 Read Property access on all attributes for all descendant contact objects
 
 These permissions are applied to all domains in the forest.
